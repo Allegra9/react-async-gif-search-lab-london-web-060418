@@ -4,7 +4,7 @@ import GifList from '../components/GifList'
 import GifSearch from '../components/GifSearch'
 
 //const QUERY = "beach"   // replaces spaces with +    ryan+gosling   &limit=5
-const LIMIT = 3
+const LIMIT = 30
 const API_KEY = "dc6zaTOxFJmzC"
 
 class GifListContainer extends React.Component {
